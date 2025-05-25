@@ -3,4 +3,3 @@ server/node_modules/
 server/upload/
 upload/
 client/node_modules/
-.env
