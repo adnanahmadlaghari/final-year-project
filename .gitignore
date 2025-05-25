@@ -1,4 +1,4 @@
-# Ignore node_modules in both client and server
-/client/node_modules/
-/server/node_modules/
-/server/upload/
+node_modules/
+server/node_modules/
+server/upload/
+client/node_modules/
